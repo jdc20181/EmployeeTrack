@@ -10,7 +10,7 @@
 
 <div class="columns">
   <ul class="price">
-    <li>**Basic**</li>
+  <li><h1>Basic</h1></li>
     <li class="grey">FREE</li>
     <li>Basic Clock in and out functions</li>
     <li>Basic Log support (requires a program like excel for full tracking) - Requires daily log </li>
@@ -22,7 +22,7 @@
 
 <div class="columns">
   <ul class="price">
-    <li class="header" style="background-color:#4CAF50">Pro</li>
+  <li class="header" style="background-color:#4CAF50"><h1>Pro</h1></li>
     <li class="grey">$ 299 / PC </li>
     <li>Clock in and out functions</li>
     <li>Date Clocked in Date Clocked out is shown. (Still need excel but more data is provided)</li>
