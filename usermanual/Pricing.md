@@ -25,7 +25,7 @@
   <li class="header" style="background-color:#4CAF50"><h1>Pro</h1></li>
     <li class="grey">$ 299 / PC </li>
     <li>Clock in and out functions</li>
-    <li>Date Clocked in Date Clocked out is shown. (Still need excel but more data is provided)</li>
+    <li> Pro Log Sorts Alphabetic(Still need excel but more data is provided)</li>
     <li>Ticket, Email, And Free Techinical Support included</li>
     <li>WaterMark is only shown in the About Section (For product Support)</li>
     <li class="grey"><a href="https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/Installation.md#upgrade-to-premium-version" class="button">Sign Up</a></li>
