@@ -52,13 +52,8 @@ Other features will be released soon!
   
   #Pricing:
   
-  Premium Licenses will be issued manually and can take up to 72 hours for a reply after confirmed payment.
-  
-  Easily Unlock the Premium Version from the Free Version - Via the Admin Panel. 
-  A Special Code will be used - that will be a 1 time code. 
-
-  If you want you can check out the <a href="#Features">Features </a> of each version. 
+ see [here](https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/Pricing.md) For pricing!
   
   
   
-  
+ 
