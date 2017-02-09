@@ -10,7 +10,7 @@
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Basic</li>
+    <li>**Basic**</li>
     <li class="grey">FREE</li>
     <li>Basic Clock in and out functions</li>
     <li>Basic Log support (requires a program like excel for full tracking) - Requires daily log </li>
