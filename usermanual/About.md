@@ -50,7 +50,7 @@ Other features will be released soon!
   No Patch updates will be given out to existing software - All new versions will be shipped as a new version, testing will be done pre-release to insure stability.
   
   
-  #Pricing:
+  # Pricing:
   
  see [here](https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/Pricing.md) For pricing!
   
