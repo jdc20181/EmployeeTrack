@@ -51,8 +51,8 @@ Other features will be released soon!
   
   
   
-  # Pricing:
-  
+#Pricing
+
  see [here](https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/Pricing.md) For pricing!
   
   
