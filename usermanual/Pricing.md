@@ -4,6 +4,9 @@
   A Special Code will be used - that will be a 1 time code. 
 
   If you want you can check out the <a href="#Features">Features </a> of each version. 
+  
+*Many Cool Features aren't listed and applicable to both versions in some cases.*
+
 
 <div class="columns">
   <ul class="price">
