@@ -16,7 +16,7 @@
     <li>Basic Log support (requires a program like excel for full tracking) - Requires daily log </li>
     <li>Basic Ticket Github Support</li>
     <li>WaterMark is shown. </li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><a href="https://github.com/jdc20181/EmployeeTrack/releases" class="button">Sign Up</a></li>
   </ul>
 </div>
 
@@ -28,7 +28,7 @@
     <li>Date Clocked in Date Clocked out is shown. (Still need excel but more data is provided)</li>
     <li>Ticket, Email, And Free Techinical Support included</li>
     <li>WaterMark is only shown in the About Section (For product Support)</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><a href="https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/Installation.md#upgrade-to-premium-version" class="button">Sign Up</a></li>
   </ul>
 </div>
 
