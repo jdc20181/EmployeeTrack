@@ -10,6 +10,7 @@ EmployeeTrack is ideal for smaller businesses who need a good way to track emplo
 #Features 
 
 Features will vary by the license you chose!
+*Many Cool Features aren't listed and applicable to both versions in some cases.*
 
 **Free**
 
