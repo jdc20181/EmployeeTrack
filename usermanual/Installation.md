@@ -12,6 +12,8 @@ First Time installations or upgrades will be prompt at launch for info to get st
 
 #Upgrade to premium Version
 
+*Download Standard Version first!*
+
 You will need to purchase a Premium License that will grant you access to additonal features, the fee is a one time non refundable fee. 
 
 To Upgrade you need to email me, that you wish to upgrade, I will send you the link to purchase the license, once it has been confirmed you will recieve a special code to unlock all features. 
