@@ -11,7 +11,7 @@ The Basic working of this program is to track employees by name, and record cloc
 
 The Premium Features require less work, and bring a powerful integration into your business. 
 
-Pricing is easy. It is a one-Time non refundable Fee of $299/Per PC Additional PC's - Premium gives you special Tech suppport, and dedicated assitance in helping with the setup, including remote support! 
+Pricing is easy. It is a one-Time non refundable Fee of $299/1 Pc and $199 Per PC Additional PC's - Premium gives you special Tech suppport, and dedicated assitance in helping with the setup, including remote support! 
 
 There is no updates! I will make sure it is bug free, before shipping it. When new versions are available you can download them, but without hte premium version all data will be lost. 
 
