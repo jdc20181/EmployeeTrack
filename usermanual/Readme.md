@@ -6,6 +6,8 @@
   
   - [Installation](https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/Installation.md)
   
+  - [Security](https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/Security.md)
+   
   - [Setup/Admin Guide](https://github.com/jdc20181/EmployeeTrack/blob/master/usermanual/setup.md)
   
   - [Tech Support](https://github.com/jdc20181/EmployeeTrack/issues)
