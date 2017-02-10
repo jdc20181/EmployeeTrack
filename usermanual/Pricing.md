@@ -23,7 +23,7 @@
 <div class="columns">
   <ul class="price">
   <li class="header" style="background-color:#4CAF50"><h1>Pro</h1></li>
-    <li class="grey">$ 299 / 1 PC $199 Per additonal PC</li>
+    <li class="grey">$ 299</li>
     <li>Clock in and out functions</li>
     <li> Pro Log Sorts Alphabetic(Still need excel but more data is provided)</li>
     <li>Ticket, Email, And Free Techinical Support included</li>
@@ -36,3 +36,5 @@
 
 </body>
 </html>
+
+**Premium License fee is non refundable. And is a 1-time obligation. If your Key is lost, there is nothing I can do - And I do not Warrant any data loss - absolutely NO exceptions. **
