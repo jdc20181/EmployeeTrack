@@ -1,6 +1,6 @@
 The Premium License gives access to the premium features. 
 
-**Only applies if you purchased a premium License. 
+**Only applies if you purchased a premium License.**
 
 Employee Track Premium Version
 Copyright (c) 2017 Jeffrey Crowder
