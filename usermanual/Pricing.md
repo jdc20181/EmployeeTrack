@@ -37,4 +37,4 @@
 </body>
 </html>
 
-**Premium License fee is non refundable. And is a 1-time obligation. If your Key is lost, there is nothing I can do - And I do not Warrant any data loss - absolutely NO exceptions. **
+**Premium License fee is non refundable. And is a 1-time obligation. If your Key is lost, there is nothing I can do - And I do not Warrant any data loss - absolutely NO exceptions.**
