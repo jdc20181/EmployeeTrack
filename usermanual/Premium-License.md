@@ -1,6 +1,6 @@
 The Premium License gives access to the premium features. 
 
-**Only applies if you purchased a premium License. Basic License Holders are subject to the Basic License. **
+**Only applies if you purchased a premium License. Basic License Holders are subject to the Basic License.**
 
 Employee Track Premium Version
 Copyright (c) 2017 Jeffrey Crowder
