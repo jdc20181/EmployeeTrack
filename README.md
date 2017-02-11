@@ -18,3 +18,9 @@ There is no updates! I will make sure it is bug free, before shipping it. When n
 #Coming soon!
 
 This project is in development, and it may be a while. But if you want the pricing to be guaranteed, as it could change, then you can [contact](mailto:jdc20181@gmail.com) me. In Subject line put Coming Soon Offer 
+
+#Beta Testing to start in July
+
+If you wish to participate, at no cost (a small fee for premium license) - You can fill out [this](https://goo.gl/forms/wCqyT6ajVLONZc7y2) form. 
+
+Please allow up to 72-hours for a response - Please be sure to give a correct contact email. 
