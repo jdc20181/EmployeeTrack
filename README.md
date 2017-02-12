@@ -24,3 +24,10 @@ This project is in development, and it may be a while. But if you want the prici
 If you wish to participate, at no cost (a small fee for premium license) - You can fill out [this](https://goo.gl/forms/wCqyT6ajVLONZc7y2) form. 
 
 Please allow up to 72-hours for a response - Please be sure to give a correct contact email. 
+
+
+#Early Preview walkthrough 
+
+It isn't designed yet or finished - but here is the first introduction walkthrough of what it does. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHiDBBL2inc" frameborder="0" allowfullscreen></iframe>
