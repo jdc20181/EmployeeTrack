@@ -29,6 +29,5 @@ Please allow up to 72-hours for a response - Please be sure to give a correct co
 #Early Preview walkthrough 
 
 It isn't designed yet or finished - but here is the first introduction walkthrough of what it does. 
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WHiDBBL2inc" frameborder="0" allowfullscreen></iframe>
-</html>
+
+https://youtu.be/WHiDBBL2inc
