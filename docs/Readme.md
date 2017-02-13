@@ -56,7 +56,7 @@ Other features will be released soon!
   
 **Pricing**
 
- see [here](/docs/Pricing.md) For pricing!
+ see [here](./docs/Pricing.md) For pricing!
   
   
   
