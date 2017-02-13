@@ -1,4 +1,4 @@
-#Welcome to EmployeeTrack!
+**Welcome to EmployeeTrack!**
 
 Employee Track is a easy to use solution - for keeping track of Time, and also includes other capabilities depending on what version you use!
 EmployeeTrack is ideal for smaller businesses who need a good way to track employee's work hours!
@@ -7,7 +7,7 @@ EmployeeTrack is ideal for smaller businesses who need a good way to track emplo
   
   - Premium License (Fully-Featured) 
   
-#Features 
+**Features**
 
 Features will vary by the license you chose!
 *Many Cool Features aren't listed and applicable to both versions in some cases.*
@@ -54,7 +54,7 @@ Other features will be released soon!
   
   
   
-#Pricing
+**Pricing**
 
  see [here](/docs/Pricing.md) For pricing!
   
