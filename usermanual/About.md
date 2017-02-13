@@ -18,21 +18,23 @@ Features will vary by the license you chose!
   
   - Large Powered By watermark
   
-  - Employee Log - Requires a daily seperate log for dates. 
+  - Employee Log - Basic Data Holding of 1 week periods, after 1 week the data will be cleared automatically. 
+  
+  **This doesn't matter if it is entered Monday or a Saturday it will delete at 11:59 PM Sunday of each week.**
   
   - Basic Github Ticket Support
   
   **Premium**
   
-  - Payroll Tracker 
+  - Payroll Tracker (Requires Excel Export)
   
   - Clock in, Clock out (More accurate than free version)
   
-  - Tracks Employees clock out and in, by date
+  - Tracks Employees clock out and in - Unlimited Data Retention - or auto clear after 4 weeks. 
   
   - Ticket Support, Email, and Technical Support (Help get it set up)
   
-  - Time Period Tracking, easily add up the total hours your employees will work in a certain amount of time. 
+  - Time Period Tracking, easily add up the total hours your employees will work in a certain amount of time. (Requires Excel like program export)
   
 **Other Features**
 
