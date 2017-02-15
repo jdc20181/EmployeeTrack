@@ -1,3 +1,7 @@
+#Closed-Beta Coming soon!!
+
+See the [wiki](https://github.com/jdc20181/EmployeeTrack/wiki/Limited-Time-Closed-Beta-Sign-Up-Offer)
+
 # EmployeeTrack
 Manage how many hours a employee works easily - 
 
